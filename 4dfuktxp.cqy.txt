@@ -1,0 +1,17 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   .idea/misc.xml
+#	modified:   .idea/workspace.xml
+#	deleted:    app/src/androidTest/java/com/example/antiverm/cool_weather/ApplicationTest.java
+#	new file:   app/src/main/java/com/example/antiverm/cool_weather/code/database/CoolWeatherDB.java
+#	new file:   app/src/main/java/com/example/antiverm/cool_weather/code/database/CoolWeatherOpenHelper.java
+#	new file:   app/src/main/java/com/example/antiverm/cool_weather/code/moudle/City.java
+#	new file:   app/src/main/java/com/example/antiverm/cool_weather/code/moudle/Country.java
+#	new file:   app/src/main/java/com/example/antiverm/cool_weather/code/moudle/Province.java
+#
+
